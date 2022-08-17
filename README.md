@@ -74,7 +74,7 @@ Error [ERR_REQUIRE_ESM]: require() of ES Module ...
 ```
 To Fix:
 - Open up your terminal
-- Do `npm rm node-fecth` 
+- Do `npm rm node-fetch` 
 - Then do `npm i node-fetch@2.x`
 
 <br>
